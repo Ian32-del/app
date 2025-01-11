@@ -1,0 +1,23 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.88.33:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.88.33:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Request: GET /
+INFO:werkzeug:127.0.0.1 - - [03/Jan/2025 21:17:37] "GET / HTTP/1.1" 200 -
+INFO:root:Request: GET /
+INFO:werkzeug:127.0.0.1 - - [03/Jan/2025 21:17:41] "GET / HTTP/1.1" 200 -
+INFO:root:Request: GET /
+INFO:werkzeug:127.0.0.1 - - [03/Jan/2025 21:17:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.88.33:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Request: GET /
+INFO:werkzeug:127.0.0.1 - - [03/Jan/2025 21:27:03] "GET / HTTP/1.1" 200 -
