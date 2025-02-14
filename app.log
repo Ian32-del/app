@@ -21,3 +21,31 @@ INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:root:Request: GET /
 INFO:werkzeug:127.0.0.1 - - [03/Jan/2025 21:27:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.52.19.150:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Request: GET /favicon.ico
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2025 09:33:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Request: GET /
+INFO:root:Request: GET /health
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2025 09:35:57] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.55.42.169:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Request: GET /favicon.ico
+INFO:werkzeug:127.0.0.1 - - [22/Jan/2025 08:17:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Request: GET /
+INFO:werkzeug:127.0.0.1 - - [22/Jan/2025 08:17:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.88.33:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Request: GET /
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2025 20:12:44] "GET / HTTP/1.1" 200 -
+INFO:root:Request: GET /favicon.ico
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2025 20:12:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
